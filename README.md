@@ -1,4 +1,4 @@
-<img align="right" alt="wallpaper" width="400" src="">
+<img align="right" alt="wallpaper" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 - 👋 Hi, I’m @08ishaan08
 - 👀 I’m interested in training my own independent ML models in quantitative finacne.
