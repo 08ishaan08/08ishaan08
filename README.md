@@ -1,3 +1,5 @@
+<img align="right" alt="wallpaper" width="400" src="">
+
 - 👋 Hi, I’m @08ishaan08
 - 👀 I’m interested in training my own independent ML models in quantitative finacne.
 - 🌱 I’m currently learning about Modern Practical Deep Networks and neural networks,
