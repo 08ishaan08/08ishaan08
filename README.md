@@ -1,6 +1,4 @@
 <img align="right" alt="wallpaper" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-<iframe src="https://giphy.com/embed/CuuSHzuc0O166MRfjt" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-pudgy-penguin-penguins-CuuSHzuc0O166MRfjt">via GIPHY</a></p>
-
 - 👋 Hi, I’m @08ishaan08
 - 👀 I’m interested in training my own independent ML models in quantitative finacne.
 - 🌱 I’m currently learning about Modern Practical Deep Networks and neural networks,
